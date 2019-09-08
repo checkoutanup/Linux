@@ -1,4 +1,4 @@
 # Linux
 
-It will contain below Topic:
-1. How to install linux
+1. Arch Linus Installation Guide Link Wiki
+* https://wiki.archlinux.org/index.php/Installation_guide
